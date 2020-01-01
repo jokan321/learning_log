@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9a5b193-d4db-4aab-a02c-a213e9c2bb24" name="Default Changelist" comment="" />
+    <list default="true" id="b9a5b193-d4db-4aab-a02c-a213e9c2bb24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/placeholder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +42,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VdbFLPO8scW4AMuV1DQ0btiTja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,12 +56,15 @@
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\softlearn\PythonProgram\learning_log" />
       <recent name="D:\softlearn\PythonProgram\learning_log\templates" />
       <recent name="D:\softlearn\PythonProgram\learning_log\templates\learning_logs" />
     </key>
@@ -133,7 +150,7 @@
       <workItem from="1577755804150" duration="14139000" />
       <workItem from="1577772334606" duration="31476000" />
       <workItem from="1577854704000" duration="8664000" />
-      <workItem from="1577883222198" duration="2485000" />
+      <workItem from="1577883222198" duration="5926000" />
     </task>
     <servers />
   </component>
@@ -145,10 +162,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577808718965" />
-    <state x="504" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577589143140">
+    <state x="504" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577906617620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="504" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577589143140" />
+    <state x="504" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577906617620" />
     <state width="242" height="189" key="DatabaseViewActions_Filter" timestamp="1577600555717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -193,6 +210,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="94" key="GridCell.Tab.1.right/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577813046228" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1577904319462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577904319462" />
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577883225809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

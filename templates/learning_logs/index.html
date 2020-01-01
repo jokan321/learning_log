@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>インデックス</title>
+</head>
+<body>
+    {% extends "base.html" %}
+    {% block header %}
+        <div class="jumbotron">
+            <h1>あなたの勉強を追跡する</h1>
+        </div>
+    {% endblock header %}
+
+    {% block content %}
+        <h2>
+            <a href="{% url 'users:register' %}">アカウントを申し込み</a>自分の勉強ローグを作ってトピックを追加する
+        </h2>
+        <h2>
+            新しいトピックについてのことを勉強している時、そのことについての要約を作る
+        </h2>
+    {% endblock content %}
+</body>
+</html>
